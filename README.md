@@ -18,13 +18,13 @@ PerkPilot will let users discover offers, earn and redeem points, and get person
 The images below are **concept mockups**, not screenshots of a running frontend. They illustrate the intended product experience while the current repository is still in its API-foundation phase.
 
 ### Customer dashboard
-![PerkPilot dashboard concept](screenshots/dashboard-preview.png)
+![PerkPilot dashboard concept](dashboard-preview.png)
 
 ### Offers discovery
-![PerkPilot offers concept](screenshots/offers-preview.png)
+![PerkPilot offers concept](offers-preview.png)
 
 ### AI assistant
-![PerkPilot AI assistant concept](screenshots/ai-assistant-preview.png)
+![PerkPilot AI assistant concept](ai-assistant-preview.png)
 
 ## Tech roadmap
 
